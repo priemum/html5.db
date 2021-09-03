@@ -1,12 +1,23 @@
 {
   "name": "html5.db",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a simple database that uses html as the storage format.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "database",
+    "html",
+    "html5",
+    "db",
+    "backend",
+    "storage",
+    "storage-engine",
+    "storage-format",
+    "storage-engine-html",
+    "storage-engine-html5"
+  ],
   "author": "DanPlayz0",
   "license": "MIT",
   "repository": {
